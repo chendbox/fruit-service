@@ -1,2 +1,2 @@
 # FruitService
-Fruit Service is a Project used to demonstrate how to use Docker, Grafana, Prometheus, Jaeger and more
+Fruit Service a small REST API for demonstration purposes.
