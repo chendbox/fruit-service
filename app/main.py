@@ -1,7 +1,7 @@
 from http import HTTPStatus
 from fastapi import FastAPI
 
-from app.routes import order
+from app.routers import order
 
 app = FastAPI(
     title='Your Fruit Self Service',
