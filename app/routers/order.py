@@ -1,7 +1,7 @@
 from http import HTTPStatus
 from fastapi import APIRouter
 
-router = APIRouter(tags=['income'])
+router = APIRouter()
 
 
 @router.post('/order', status_code=HTTPStatus.OK)
